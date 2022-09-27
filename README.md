@@ -10,6 +10,8 @@
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/31f8ce0ee50865ec3c9b25a71f2bcad63fb06d6a/sql-server.png" alt="sql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/cdf85ef66d8c234dbb64888ac514aba8f11d9ae2/python.png" alt="python" width="40" height="40"/> </a>
 <a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/cfe1e074efcb136bb408cd286d3bb09a9d2affe5/free-icon-gnu-bash-919837.png" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/6588a483234af35e3eb7ca2e2d1f05e649fead91/file_type_css_icon_130661.png" alt="css" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/htmL/default.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/6588a483234af35e3eb7ca2e2d1f05e649fead91/file_type_html_icon_130541.png" alt="bash" width="40" height="40"/> </a>
 </a> 
 </p>
 
