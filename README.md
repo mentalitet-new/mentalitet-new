@@ -15,5 +15,5 @@
 
 ### Contact:
 <p align="left">
-<a href="https://t.me/sup2020" target="blank"><img align="center" src="https://github.com/mentalitet-new/mentalitet-new/blob/ea83fc17c6aa2f203f516d09150b39c3849856e3/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-app.gif" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://t.me/sup2020" target="blank"><img align="center" src="https://github.com/mentalitet-new/mentalitet-new/blob/3c23f971b9bd8bbd5131813546101234cf07c80c/telegram_icon_130816.png" alt="daniilshat" height="40" width="40" /></a>
 </p>
