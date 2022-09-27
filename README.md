@@ -10,7 +10,7 @@
 ### Languages:
 <p align="left"> 
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/b719167dac74548ce0405da7b97d77636fba5baa/mysql.png" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.qt.io" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/210e8d12a0fad661ab7567b92af1fa3e5954c48f/qt_94938.png" alt="qtdesigner" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/cdf85ef66d8c234dbb64888ac514aba8f11d9ae2/python.png" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/cdf85ef66d8c234dbb64888ac514aba8f11d9ae2/snake.png" alt="python" width="40" height="40"/> </a> 
 </a> 
