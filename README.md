@@ -19,3 +19,7 @@
 <p align="left">
 <a href="https://t.me/sup2020" target="blank"><img align="center" src="https://github.com/mentalitet-new/mentalitet-new/blob/3c23f971b9bd8bbd5131813546101234cf07c80c/telegram_icon_130816.png" alt="daniilshat" height="40" width="40" /></a>
 </p>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
