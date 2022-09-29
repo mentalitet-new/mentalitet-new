@@ -21,5 +21,5 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://github.com/mentalitet-new/mentalitet-new/blob/adea37d18ce9dfc9b298a688c56a75794b251e18/snake.png" width="100"/>
 </div>
