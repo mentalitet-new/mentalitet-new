@@ -7,6 +7,9 @@
 
 ### Languages:
 <p align="left"> 
+<div id="header" align="center">
+  <img src="https://github.com/mentalitet-new/mentalitet-new/blob/adea37d18ce9dfc9b298a688c56a75794b251e18/snake.png" width="100"/>
+</div>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/31f8ce0ee50865ec3c9b25a71f2bcad63fb06d6a/sql-server.png" alt="sql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/cdf85ef66d8c234dbb64888ac514aba8f11d9ae2/python.png" alt="python" width="40" height="40"/> </a>
 <a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/cfe1e074efcb136bb408cd286d3bb09a9d2affe5/free-icon-gnu-bash-919837.png" alt="bash" width="40" height="40"/> </a>
@@ -19,7 +22,3 @@
 <p align="left">
 <a href="https://t.me/sup2020" target="blank"><img align="center" src="https://github.com/mentalitet-new/mentalitet-new/blob/3c23f971b9bd8bbd5131813546101234cf07c80c/telegram_icon_130816.png" alt="daniilshat" height="40" width="40" /></a>
 </p>
-
-<div id="header" align="center">
-  <img src="https://github.com/mentalitet-new/mentalitet-new/blob/adea37d18ce9dfc9b298a688c56a75794b251e18/snake.png" width="100"/>
-</div>
