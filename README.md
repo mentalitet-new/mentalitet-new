@@ -5,7 +5,8 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/a7e71ee20b64d1a38c69b8c284bf50f53e367330/OS_Linux_23399.png" alt="linux" width="40" height="40"/> </a>  
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/3291b6c155f8ae7a535588314a819b34bdda97d1/pycharm_icon.svg-6137743.png" alt="git" width="40" height="40"/> </a>
 <a href="https://www.qt.io" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/210e8d12a0fad661ab7567b92af1fa3e5954c48f/qt_94938.png" alt="qtdesigner" width="40" height="40"/> </a>
-<a href="https://www.pgadmin.org" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/2e988d6bdffcef112593ca83ee60fd7dad80d489/postgre_new.png" alt="qtdesigner" width="40" height="40"/> </a>  
+<a href="https://www.pgadmin.org" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/2e988d6bdffcef112593ca83ee60fd7dad80d489/postgre_new.png" alt="qtdesigner" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/en/latest/" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/a220ad0d351e92942076c14ffa27aadee95688e2/flask_logo_icon_145276.png" alt="qtdesigner" width="40" height="40"/> </a>  
 </p>
 
 ### Languages:
