@@ -7,7 +7,7 @@
 <a href="https://www.qt.io" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/210e8d12a0fad661ab7567b92af1fa3e5954c48f/qt_94938.png" alt="qtdesigner" width="40" height="40"/> </a>
 <a href="https://www.pgadmin.org" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/2e988d6bdffcef112593ca83ee60fd7dad80d489/postgre_new.png" alt="pgadmin" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/en/latest/" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/a220ad0d351e92942076c14ffa27aadee95688e2/flask_logo_icon_145276.png" alt="flask" width="40" height="40"/> </a>
-<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/68911d38f243393dc2b03138835b349cc208cc6c/docker_original_logo_icon_146556.png" alt="docker" width="60" height="50"/> </a>  
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/68911d38f243393dc2b03138835b349cc208cc6c/docker_original_logo_icon_146556.png" alt="docker" width="50" height="50"/> </a>  
 </p>
 
 ### Languages:
