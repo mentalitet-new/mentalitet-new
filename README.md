@@ -1,6 +1,5 @@
 ### Fake it Till You Make it!
 
-
 ### Tools:
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/a7e71ee20b64d1a38c69b8c284bf50f53e367330/OS_Linux_23399.png" alt="linux" width="40" height="40"/> </a>  
@@ -10,7 +9,6 @@
 <a href="https://flask.palletsprojects.com/en/latest/" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/a220ad0d351e92942076c14ffa27aadee95688e2/flask_logo_icon_145276.png" alt="flask" width="40" height="40"/> </a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/19f1636c08a34a3b612faf458b1aed0dc6fe1cbe/docker_tile_logo_icon_168248.png" alt="docker" width="40" height="40"/> </a>  
 </p>
-
 
 ### Languages:
 <p align="left"> 
