@@ -1,6 +1,5 @@
 ### Fake it Till You Make it!
 
-
 ### Tools:
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/a7e71ee20b64d1a38c69b8c284bf50f53e367330/OS_Linux_23399.png" alt="linux" width="40" height="40"/> </a>  
@@ -11,7 +10,6 @@
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/19f1636c08a34a3b612faf458b1aed0dc6fe1cbe/docker_tile_logo_icon_168248.png" alt="docker" width="40" height="40"/> </a>  
 </p>
 
-
 ### Languages:
 <p align="left"> 
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/31f8ce0ee50865ec3c9b25a71f2bcad63fb06d6a/sql-server.png" alt="sql" width="40" height="40"/> </a>
@@ -21,7 +19,6 @@
 <a href="https://www.w3schools.com/htmL/default.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/6588a483234af35e3eb7ca2e2d1f05e649fead91/file_type_html_icon_130541.png" alt="html" width="40" height="40"/> </a>
 </a> 
 </p>
-
 
 ### Contact:
 <p align="left">
