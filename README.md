@@ -10,6 +10,7 @@
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/19f1636c08a34a3b612faf458b1aed0dc6fe1cbe/docker_tile_logo_icon_168248.png" alt="docker" width="40" height="40"/> </a>  
 </p>
 
+
 ### Languages:
 <p align="left"> 
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/mentalitet-new/mentalitet-new/blob/31f8ce0ee50865ec3c9b25a71f2bcad63fb06d6a/sql-server.png" alt="sql" width="40" height="40"/> </a>
